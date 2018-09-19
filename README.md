@@ -1,3 +1,4 @@
+
 # This is a markdown file describing you how to set up an environment variable and alias using bash command line.
 
 ## 1 Create a PUI2018 directory
@@ -27,5 +28,5 @@ pwd
 ```
 ![Alt text](PUI_HW_1_2.png)
 
-So, everthing's seems fine. Welldone!
-
+So, everthing's seems fine. Well
+how to set an environment and alias in command 
