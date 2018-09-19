@@ -28,5 +28,4 @@ pwd
 ```
 ![Alt text](PUI_HW_1_2.png)
 
-So, everthing's seems fine. Well
-how to set an environment and alias in command 
+So, everthing's seems fine. Welldone! 
