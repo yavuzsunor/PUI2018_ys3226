@@ -1,11 +1,1 @@
-#This is describing
-how to set an environment and alias in command line.
-
-
-
-
-First we create a directory called PUI2018
-
-
-...
-mkdir PUI2018
+This is the PUI2018 directory to store homeworks and lab assignments.
