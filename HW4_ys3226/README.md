@@ -13,3 +13,5 @@ At the end, calculated two different percentage for each usertype for each hours
 Tested the idea of the efficiency of proposed new bus line. Created and formulated a Null Hypothesis. 
 Calculated the mean and standard deviation of a new sample consists of 100 observation. 
 Based on old information about average time of commute and its standard deviation came up with a z-score which helps us to evalutate Null Hypothesis.
+
+### I worked with Max W Brueckner-Humphreys for the whole Assignment 2 and Assignment 3. We crated the IDEAS and NULL Hypothesis together, and shared the coding part.
