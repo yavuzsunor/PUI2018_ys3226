@@ -1,0 +1,3 @@
+The hypothesis seems to be correct. He has given the right hypothesis. 
+The data seems to be organized in the best way possible
+The best test to be used should be z test as he has two data sets both numerical in nature. 
