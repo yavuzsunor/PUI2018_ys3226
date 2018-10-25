@@ -1,0 +1,3 @@
+
+def myAPI():
+    return 'idkpleasework'
