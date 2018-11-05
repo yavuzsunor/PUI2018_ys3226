@@ -1,4 +1,15 @@
-| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
-|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categorical) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593) |
-  |||||||||
+## This notebook is designed to give necessary information about PUI2018 HW6
+
+Still working on this Homework, but wanted to add the parts that I've done so far.
+This is the second time of submission of this homework, some changes has been made.
+
+Here, you may find:
+
+Assignment 1 (My citibike review I made for my1826.)
+
+Assignment 2 (The table regarding research paper has been deleted because of inadequate output. Will be refreshed.)
+
+Assignment 3 (Calculating z score and chi-square for Prison-Fellony case study.)
+
+Assignemnt 4 (not finished yet)
+
