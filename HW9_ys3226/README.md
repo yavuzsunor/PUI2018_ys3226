@@ -1,7 +1,8 @@
 # This is a markdown file to describe PUI2018 Homework9 for each assignment. 
+Important Note: I used my 72 hours extension for this homework.
 
 ## Assignment 1 
-I read my plot reviews for two of my classmates. You can see the reviews and the corresponding plots in the following md. files:
+I wrote my plot reviews for two of my classmates. You can see the reviews and the corresponding plots in the following md. files:
 
 sg5718_plotReview_ys3226.md
 
